@@ -20,6 +20,11 @@ const myLinks = [
       name: "Notes Landing",
     },
     {
+      as: "/hi",
+      href: "/hi",
+      name: "Hi page",
+    },
+    {
       as: "/notes/1",
       href: "/notes/1",
       name: "Note-1",
